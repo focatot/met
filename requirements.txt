@@ -1,5 +1,5 @@
 gunicorn==22.0.0
-numpy @ file:///private/tmp/numpy-20240206-5996-spmzje/numpy-1.26.4
+numpy==1.26.4
 packaging==24.0
-pycairo @ file:///private/tmp/py3cairo-20240213-6081-v7yhn5/pycairo-1.26.0
+pycairo==1.26.0
 PyGObject==3.46.0
